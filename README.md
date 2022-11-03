@@ -1,2 +1,2 @@
-# nand2tetris-project
+# Nand2Tetris Project
 Completing the Nand2Tetris curriculum
